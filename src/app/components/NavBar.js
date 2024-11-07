@@ -17,7 +17,7 @@ export default function NavbarGlobal() {
           alt="Flowbite React Logo"
         />
         <span className="self-center whitespace-nowrap text-xl font-semibold text-white">
-          Galeria
+          Galeria Pokemon
         </span>
       </Navbar.Brand>
     </Navbar>
